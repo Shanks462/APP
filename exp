@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5000+ Hindi Moral Stories Bundle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: #ffcc00;
+        }
+        .section {
+            margin: 20px 0;
+            background: #1c1c1c;
+            padding: 20px;
+            border-radius: 12px;
+        }
+        .section img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .features ul {
+            width: 48%;
+            list-style: none;
+            padding: 0;
+        }
+        .features li {
+            background: #222;
+            margin: 6px 0;
+            padding: 10px;
+            border-left: 5px solid #00cc66;
+        }
+        .cta {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .cta button {
+            background-color: #ffcc00;
+            color: #000;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .cta button:hover {
+            background-color: #ffaa00;
+        }
+        .description {
+            font-size: 1.1rem;
+            margin-top: 20px;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <h1>5000+ Hindi Moral Stories Bundle</h1>
+            <p class="description">
+                Get access to a massive library of animated Hindi moral stories perfect for YouTube, shorts, and reels. This bundle includes high-quality, copyright-free content, video kits, marketing guidance, and lifetime access — all at an incredible price of just ₹50!
+            </p>
+        </div>
+
+        <div class="section">
+            <img src="e:\Getting started with html\WhatsApp Image 2025-04-12 at 14.03.18_b79d8dd6.jpg" alt="Bundle Overview">
+        </div>
+
+        <div class="features">
+            <ul>
+                <li>2500+ Long Cartoon Stories</li>
+                <li>1500+ Short Animations</li>
+                <li>500+ Tom & Jerry Reels</li>
+                <li>500+ Zig and Sharko Reels</li>
+                <li>YouTube Kit & Marketing Tips</li>
+                <li>50GB+ Video Editing Pack</li>
+            </ul>
+
+            <ul>
+                <li>No Copyrights</li>
+                <li>1080p HD Quality</li>
+                <li>Instant Google Drive Access</li>
+                <li>No Watermarks</li>
+                <li>Lifetime Access</li>
+                <li>SEO Premium Courses</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <img src="e:\Getting started with html\WhatsApp Image 2025-04-12 at 14.03.18_66fab7f2.jpg" alt="Story Thumbnails">
+        </div>
+
+        <div class="cta">
+            <button onclick="alert('Redirecting to payment or contact page...')">Get Now for ₹50</button>
+        </div>
+    </div>
+</body>
